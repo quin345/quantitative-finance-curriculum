@@ -1,7 +1,3 @@
-Perfect. You’re not just learning markets—you’re building your own quant firm from the ground up. That demands a strategic, rigorous, and practical curriculum. Here's the **12–24 week roadmap** broken into 3 phases, explicitly aligned with your solo founder context, your \$10K initial capital, and goal to become investor-ready.
-
----
-
 ## 🧠 PROGRAM OVERVIEW: "Quant Mastery for Solo Hedge Fund Founders"
 
 **Objective:**
@@ -138,13 +134,4 @@ Develop institutional-grade market intuition, quant alpha generation skill, and 
 * ✅ LP Pitch & Letters
 * ✅ GitHub Repo (clean codebase)
 
----
-
-Would you like me to generate:
-
-* A **Notion workspace template** for this entire program?
-* A **GitHub starter repo** with boilerplate code, folders, and initial notebooks?
-* A **calendar version** with weekly milestones & time estimates?
-
-Let me know, and I’ll build it for you.
 
