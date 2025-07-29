@@ -1,4 +1,4 @@
-## 🧠 PROGRAM OVERVIEW: "Quant Mastery for Solo Hedge Fund Founder"
+## 🧠 PROGRAM OVERVIEW: "Quant Mastery for Solo Hedge Fund Founders"
 
 **Objective:**
 Develop institutional-grade market intuition, quant alpha generation skill, and operational fluency to launch and scale a real-money hedge fund in 6–9 months.
